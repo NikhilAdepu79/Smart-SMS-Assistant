@@ -70,7 +70,3 @@ M.Sc. in Artificial Intelligence & Data Science
 
 
 ***
-
-4. Click **Commit changes**.
-
-Now your project looks like a complete, professional software package!
