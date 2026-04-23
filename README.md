@@ -1,6 +1,6 @@
 README.md Content
 Markdown
-# Smart SMS Assistant 🤖📱
+# Smart SMS Assistant APP 🤖📱
 
 A sophisticated, automated SMS response system built with Kotlin and Android SDK. This assistant manages missed calls and incoming messages with intelligent, context-aware English greetings and automated logic.
 
